@@ -1,0 +1,28 @@
+reponse Quizz/basics.txt
+Q1: .A : function
+Q2:.A :  <script>
+Q3:.C : the <body> section 
+Q4:.B : <script src="xxx.js">
+Q5:.B : false
+Q6:.D : alert("Hello World")
+Q7:.C : myFunction()
+Q8:.B : No
+Q9:.B : No
+Q10:.E : Error
+Q11:.E : Error
+Q12:.A : object 
+.C : array
+.D : string
+Q13:.B : undefined 
+Q14:.C : 1 or more
+Q15:.D :  null
+Q16:.E : Error
+Q18:.C  : // This is a comment //
+Q19:.D  : null
+Q20:.B  : A function that calls itself
+Q21:.D  : undefined
+Q22:.D  : undefined
+Q23:.D  : undefined
+Q24:.C  : 8,7,6
+Q25: undefined
+
